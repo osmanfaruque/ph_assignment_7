@@ -1,13 +1,101 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Auction Gallery</title>
+</head>
+<!-- daisyui -->
+<link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<!-- font-Awesome -->
+<script src="https://kit.fontawesome.com/cebd269f74.js" crossorigin="anonymous"></script>
+
+<body>
+  <header>
+    <nav>
+      <div class="navbar flex justify-between px-10 py-5">
+        <!-- Logo Section -->
+        <div>
+          <a href="index.html" class="text-xl"><span class="text-blue-950">Auction</span><span
+              class="text-amber-400 font-bold">Gallery</span></a>
+        </div>
+        <!-- Navigation Links -->
+        <ul class="flex gap-8">
+          <li><a href="">Home</a></li>
+          <li><a href="">Auctions</a></li>
+          <li><a href="">Categories</a></li>
+          <li><a href="">How it works</a></li>
+        </ul>
+        <!-- User Button Section -->
+        <div class="flex-none gap-2">
+          <button class="btn btn-ghost btn-circle">
+            <div class="indicator">
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+              </svg>
+            </div>
+          </button>
+          <div class="dropdown dropdown-end">
+            <div tabindex="0" role="button" class="btn btn-ghost btn-circle avatar">
+              <div class="w-10 rounded-full">
+                <img alt="User Avatar"
+                  src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <div class="relative">
+      <!-- Banner Image -->
+      <img class="w-full h-auto" src="src/assets/images/Banner-min.jpg" alt="Banner Image">
+      <!-- Overlay Text Content -->
+      <div
+        class="absolute top-0 left-0 h-full w-full flex flex-col justify-center items-start px-10 py-16 bg-black/30 text-white">
+        <h1 class="text-3xl font-bold mb-4">Bid on Unique Items from Around the World</h1>
+        <p class="text-lg mb-6 max-w-lg">Discover rare collectibles, luxury goods, and vintage treasures in our curated
+          auctions</p>
+        <button class="btn btn-primary bg-white text-black textarea-lg font-semibold px-10 py-6 rounded-4xl ">Explore
+          Auctions</button>
+      </div>
+    </div>
+  </main>
+
+  <!-- React App Root -->
+  <div id="root"></div>
+
+  <footer>
+    <div class="flex flex-col gap-3 items-center py-10">
+      <div>
+        <a class="text-xl"><span class="text-blue-950">Auction</span><span
+            class="text-amber-400 font-bold">Gallery</span></a>
+      </div>
+      <div class="flex gap-3">
+        <p>Bid.</p>
+        <p>Win.</p>
+        <p>Own.</p>
+      </div>
+      <div class="flex gap-5">
+        <p>Home</p>
+        <p>Auctions</p>
+        <p>Categories</p>
+        <p>How it works</p>
+      </div>
+      <div>
+        <p>© 2025 AuctionHub. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
 </html>

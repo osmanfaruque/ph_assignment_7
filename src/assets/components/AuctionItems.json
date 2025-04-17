@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Iconic rangefinder camera from 1954, excellent condition with original leather case and 50mm Summicron lens.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 18,
+    "image": "https://i.ibb.co/xKT6SL5c/vintage-camera.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Rare cherry finish, all original parts, owned by a studio musician with certificate of authenticity.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 24,
+    "image": "https://i.ibb.co/pB8nzrLJ/electric-guitar.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Working condition with original keyboard, mouse, and software. A piece of computing history.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 15,
+    "image": "https://i.ibb.co/27DbFZvR/vintage-mac.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Classic stainless steel diving watch, recently serviced with box and papers, excellent condition.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 32,
+    "image": "https://i.ibb.co/qFLmLjcT/rolex-watch.jpg"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first printing from 1925 with original dust jacket, preserved in archival-quality casing.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 12,
+    "image": "https://i.ibb.co/PvmH5qBX/gatsby-book.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Original Herman Miller production from 1956, rosewood veneer and black leather, authenticated.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 9,
+    "image": "https://i.ibb.co/4wBwFw1N/eames-chair.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "Signed limited edition 'Girl with Balloon' silkscreen print, numbered 382/750 with certificate.",
+    "currentBidPrice": 2850,
+    "timeLeft": 2,
+    "bidsCount": 43,
+    "image": "https://i.ibb.co/84jxHTJF/banksy-art.jpg"
+  },
+  {
+    "id": 8,
+    "title": "1969 Fender Stratocaster",
+    "description": "Sunburst finish, maple neck, original pickups, played by several touring musicians in the 1970s.",
+    "currentBidPrice": 3200,
+    "timeLeft": 1,
+    "bidsCount": 28,
+    "image": "https://i.ibb.co/FkGzbTQG/fender-guitar.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Rare First-Issue Bitcoin Physical Coin",
+    "description": "2011 Casascius physical bitcoin, unpeeled with 1 BTC value, in protective case with verification.",
+    "currentBidPrice": 4600,
+    "timeLeft": 3,
+    "bidsCount": 51,
+    "image": "https://i.ibb.co/9HQJfs5z/bitcoin-coin.jpg"
+  },
+  {
+    "id": 10,
+    "title": "NASA Apollo 11 Mission Patch",
+    "description": "Original crew patch worn during training, signed by Buzz Aldrin with photo documentation.",
+    "currentBidPrice": 5200,
+    "timeLeft": 5,
+    "bidsCount": 37,
+    "image": "https://i.ibb.co/cc77gDJw/apollo-patch.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Original 1985 Air Jordan 1 Sneakers",
+    "description": "Unworn condition, original box, Chicago colorway, authenticated by Stadium Goods.",
+    "currentBidPrice": 7800,
+    "timeLeft": 1,
+    "bidsCount": 64,
+    "image": "https://i.ibb.co/LdnQ7XkC/jordan-sneakers.jpg"
+  },
+  {
+    "id": 12,
+    "title": "1950s Omega Speedmaster Pre-Moon",
+    "description": "Rare pre-professional model, caliber 321 movement, original bracelet and dial in exceptional condition.",
+    "currentBidPrice": 8900,
+    "timeLeft": 4,
+    "bidsCount": 22,
+    "image": "https://i.ibb.co/chqDmSCt/omega-watch.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Handwritten Lyrics by Bob Dylan",
+    "description": "Original handwritten lyrics to 'Blowin' in the Wind' on hotel stationery, 1962, with authentication.",
+    "currentBidPrice": 12000,
+    "timeLeft": 6,
+    "bidsCount": 8,
+    "image": "https://i.ibb.co/XgTR7DB/dylan-lyrics.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Signed First Edition Harry Potter Book",
+    "description": "First printing of 'Harry Potter and the Philosopher's Stone', signed by J.K. Rowling, near-mint condition.",
+    "currentBidPrice": 9500,
+    "timeLeft": 3,
+    "bidsCount": 47,
+    "image": "https://i.ibb.co/8Db0MsHV/potter-book.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Vintage Polaroid SX-70 Land Camera",
+    "description": "Original 1972 folding SLR instant camera, fully restored and functional with custom leather case.",
+    "currentBidPrice": 1800,
+    "timeLeft": 4,
+    "bidsCount": 13,
+    "image": "https://i.ibb.co/1WYBGt0/polaroid-camera.jpg"
+  }
+]
